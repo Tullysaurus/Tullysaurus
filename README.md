@@ -36,6 +36,11 @@ I'm a big supporter of free/open-source software and I try to keep as much of my
   <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Node.js-1f3b2e?style=for-the-badge&logo=nodedotjs&logoColor=83CD29" alt="Node.js">
   <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers">
+  <img src="https://img.shields.io/badge/Python-1f2d3d?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python">
+  <img src="https://img.shields.io/badge/C-283747?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C">
+  <img src="https://img.shields.io/badge/Java-2E2A2A?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
+  <img src="https://img.shields.io/badge/SQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=336791" alt="SQL">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS">
 </p>
 
 ## Links
