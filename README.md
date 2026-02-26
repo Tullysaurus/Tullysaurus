@@ -2,6 +2,7 @@
   <a href="https://tully.sh" title="Website"><img src="https://img.shields.io/badge/Website-tully.sh-1d1d1d?style=for-the-badge" alt="Website"></a>
   <a href="https://github.com/tullysaurus" title="GitHub"><img src="https://img.shields.io/badge/GitHub-tullysaurus-24292e?style=for-the-badge" alt="GitHub"></a>
   <a href="https://tully.sh/projects" title="Projects"><img src="https://img.shields.io/badge/Projects-Live-3b3b3b?style=for-the-badge" alt="Projects"></a>
+  <a href="https://discord.com/users/694274948071555154" title="Discord"><img src="https://img.shields.io/badge/Discord-tullydev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 # About Me
@@ -40,6 +41,7 @@ I'm a big supporter of free/open-source software and I try to keep as much of my
   <img src="https://img.shields.io/badge/C-283747?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C">
   <img src="https://img.shields.io/badge/Java-2E2A2A?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
   <img src="https://img.shields.io/badge/SQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=336791" alt="SQL">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS">
 </p>
 
 ## Links
@@ -48,3 +50,8 @@ I'm a big supporter of free/open-source software and I try to keep as much of my
 - Projects: [tully.sh/projects](https://tully.sh/projects)
 - Blog: [tully.sh/blog](https://tully.sh/blog)
 - GitHub: [github.com/tullysaurus](https://github.com/tullysaurus)
+- Discord: [@tullydev](https://discord.com/users/694274948071555154)
+
+---
+
+If you like what I'm building, feel free to connect.
