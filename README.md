@@ -9,10 +9,10 @@
 
 Hey, I'm **Tully** (also known as **Tullydev / Tullsaurus**).
 
-I'm a self-taught full-stack developer and I've been programming since I was around eight.  
+I'm a self-taught full-stack developer and I've been programming since I was eight.  
 I like building software that is fast, practical, and actually useful in real workflows.
 
-Most of my projects start from a real pain point, then get refined into tools other people can use.  
+Most of my projects start from an inconvenience, then get built into tools other people can use.  
 I care about clean UI, good UX, and keeping things simple enough to maintain long-term.
 
 I'm a big supporter of free/open-source software and I try to keep as much of my work public as possible.
@@ -21,9 +21,8 @@ I'm a big supporter of free/open-source software and I try to keep as much of my
 
 - Full-stack web apps
 - Practical developer tooling
-- Clean, dark-themed interfaces with subtle motion
-- Shipping real features quickly
-- Iterating in public
+- Clean, dark-themed interfaces
+- Simple solutions to complex problems
 
 ## Languages & Frameworks
 
