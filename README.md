@@ -40,7 +40,6 @@ I'm a big supporter of free/open-source software and I try to keep as much of my
   <img src="https://img.shields.io/badge/C-283747?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C">
   <img src="https://img.shields.io/badge/Java-2E2A2A?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
   <img src="https://img.shields.io/badge/SQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=336791" alt="SQL">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS">
 </p>
 
 ## Links
@@ -49,7 +48,3 @@ I'm a big supporter of free/open-source software and I try to keep as much of my
 - Projects: [tully.sh/projects](https://tully.sh/projects)
 - Blog: [tully.sh/blog](https://tully.sh/blog)
 - GitHub: [github.com/tullysaurus](https://github.com/tullysaurus)
-
----
-
-If you like what I'm building, feel free to connect.
