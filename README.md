@@ -20,9 +20,9 @@ I'm a big supporter of free/open-source software and I try to keep as much of my
 ## What I Focus On
 
 - Full-stack web apps
-- Practical developer tooling
-- Clean, dark-themed interfaces
-- Simple solutions to complex problems
+- Simple, dark-themed interfaces
+- Free tools for developers
+- Ease of use over complexity
 
 ## Languages & Frameworks
 
